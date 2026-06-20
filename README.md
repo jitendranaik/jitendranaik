@@ -14,11 +14,17 @@
 
 ✨ I'm **Jitendra Naik**, a Computer Science student passionate about building impactful digital solutions.
 
-🔹Founder of J&B DOT HOUSE
-🔹 Student at **Rajendra University – Department of Computer Science**  
-🔹 Exploring **Artificial Intelligence & Web Development**  
-🔹 Skilled in **HTML, Python, C,Java**  
+🔹Founder & CEO of J&B DOT HOUSE.
+
+🔹 Student at **Rajendra University – Department of Computer Science**
+
+🔹 Exploring **Artificial Intelligence & Web Development**
+
+
+🔹 Skilled in **HTML, Python, C,Java**
+
 🔹 Love writing clean and logical code  & Explore beond the boundary.
+
 🔹 Always learning. Always improving. Always building. Stay consistent.
 
 ---
@@ -32,7 +38,7 @@
 
 ### 🔵 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,Code Blocks" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode,CodeBlocks" height="50" />
 </p>
 
 ---
