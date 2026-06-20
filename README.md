@@ -13,12 +13,12 @@
 # 👨‍💻 About Me
 
 ✨ I'm **Jitendra Naik**, a Computer Science student passionate about building impactful digital solutions.
-
+🔹Founder of J&B DOT HOUSE
 🔹 Student at **Rajendra University – Department of Computer Science**  
 🔹 Exploring **Artificial Intelligence & Web Development**  
-🔹 Skilled in **HTML, Python, C**  
-🔹 Love writing clean and logical code  
-🔹 Always learning. Always improving. Always building.
+🔹 Skilled in **HTML, Python, C,Java**  
+🔹 Love writing clean and logical code  & Explore beond the boundary.
+🔹 Always learning. Always improving. Always building. Stay consistent.
 
 ---
 
@@ -26,12 +26,12 @@
 
 ### 🟢 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,python,c" height="50" />
+  <img src="https://skillicons.dev/icons?i=html,python,c,java" height="50" />
 </p>
 
 ### 🔵 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode,codeblocks" height="50" />
 </p>
 
 ---
@@ -67,7 +67,9 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
----
+--
 
-# ✨ Final Quote  
+# ✨ Last three Quote  
 ### _“Dream Big. Code Smart. Stay Consistent.”_ 🚀
+### _"THE EARTH BELONGS TO THE BRAVE."_📈💪
+### _"Life is not equal. Life is brutal."_☠️
