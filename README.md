@@ -1,6 +1,6 @@
 <!-- ULTRA ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jitendra+Naik+%F0%9F%91%8B;AI+Enthusiast+%7C+Web+Developer+%7C+Programmer;Computer+Science+Student;Welcome+To+My+GitHub+World+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Jitendra+Naik+%F0%9F%91%8B;AI+Enthusiast+%7C+Web+Developer+%7C+Programmer;Computer+Science+Student;Founder+of+J%26B+DOT+HOUSE;Welcome+To+My+GitHub+World+%F0%9F%9A%80" />
 </p>
 
 <!-- GRADIENT ANIMATED BAR -->
@@ -38,7 +38,8 @@
 
 ### 🔵 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,CodeBlocks" height="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Codeblocks_logo.svg" height="50" alt="Code::Blocks" style="margin-left: 5px;" /
 </p>
 
 ---
