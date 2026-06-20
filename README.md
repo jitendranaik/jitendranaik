@@ -39,7 +39,7 @@
 ### 🔵 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Codeblocks_logo.svg" height="50" alt="Code::Blocks" style="margin-left: 5px;" /
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Codeblocks_logo.svg" height="50" alt="Code::Blocks" style="margin-left: 5px;" />
 </p>
 
 ---
